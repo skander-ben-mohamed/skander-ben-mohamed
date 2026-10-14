@@ -56,9 +56,20 @@ Final-year Computer Engineering student at the **Polytechnic School of Sousse** 
 ## 📊 GitHub Contributions & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skander-ben-mohamed&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&show=prs,issues,repos" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skander-ben-mohamed&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&show=prs,issues,repos&cache_seconds=0" alt="Skander's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skander-ben-mohamed&layout=compact&theme=transparent&hide_border=true&langs_count=7" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skander-ben-mohamed&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css&cache_seconds=0" alt="Top Languages" />
 </p>
+
+---
+
+### 📈 Engineering Activity & Metrics Breakdown
+
+| Métrique / Dimension | Analyse & Détails Techniques |
+| :--- | :--- |
+| **Volume de Dépôts** | **36 Projets & Repositories** couvrant des architectures web, mobiles et IA[cite: 5]. |
+| **Pointe de Code Principal** | Forte dominante sur **Python (89%+)** pour les pipelines de Deep Learning, la Computer Vision et les microservices[cite: 2, 4]. |
+| **Densité des Commits** | Commits à haute fréquence répartis entre les projets de production (ex: *3aweni*, *VisiInspect*, *DocuMind*)[cite: 1, 2]. |
+| **Standards Ingénierie** | Architecture modulaire, conteneurisation Docker, suivi MLOps (MLflow) et déploiement continu[cite: 2]. |
