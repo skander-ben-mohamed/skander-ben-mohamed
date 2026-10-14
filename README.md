@@ -53,9 +53,12 @@ Final-year Computer Engineering student at the **Polytechnic School of Sousse** 
 - **Stack:** TypeScript, React, Python, FastAPI, BGE-M3 Embeddings, ChromaDB, Docker.
 
 ---
-
 ## 📊 GitHub Contributions & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skander-ben-mohamed&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skander-ben-mohamed&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&show=prs,issues,repos" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skander-ben-mohamed&layout=compact&theme=transparent&hide_border=true&langs_count=7" alt="Top Languages" />
 </p>
